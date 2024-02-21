@@ -1,4 +1,4 @@
-# Password Generator: A random password generator
+# Password Generator
 This is a small application that generates a random password based on user specified requirements
 ## Table of Contents
 
