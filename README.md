@@ -34,7 +34,7 @@ To install and run the Smolink server (Flask) locally, follow these steps:
 
 ## Usage
 
-To convert an image to ascii art follow these steps
+To generate a password follow these steps
 
 1. Run the python file
 2. Drag the slider to adjust the generated password length
